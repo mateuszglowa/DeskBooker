@@ -32,6 +32,6 @@ namespace DeskBooker.Core.Processor
 
         }
 
-        public void 
+       
     }
 }
